@@ -1,7 +1,4 @@
-os
-random
-discord
-datetime
-asyncio
-Pillow
-python-dotenv
+asyncio==3.4.3
+Pillow==10.0.1
+python-dotenv==1.0.0
+discord.py
