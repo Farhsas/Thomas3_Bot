@@ -21,24 +21,24 @@ Before running this Discord bot, make sure you have the following installed:
 ## Getting Started
 ### Installation
 1. Clone the repository
-'''bash
+```bash
 git clone https://github.com/Farhsas/Thomas3_Bot.git
-'''
-2. Create a virtual environment and activate it:
-'''bash 
+```
+3. Create a virtual environment and activate it:
+```bash 
 python -m venv venv
 source venv/bin/activate  # On Windows, use: venv\Scripts\activate
-'''
-3. Insall the requirements:
-'''bash
+```
+5. Insall the requirements:
+```bash
 pip install -r requirements.txt
-'''
+```
 
 ### Configuration
 1. Create a `.env` file in the root directory and add the following:
-'''python
+```python
 TOKEN_BOT=your-bot-token-here
-'''
+```
 2. Customize the bot's behaviour by editing `reminder_times`, `reminder_days`, and other setting in the code as needed.
 
 ## Bot Features
