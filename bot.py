@@ -3,7 +3,6 @@ import random
 import discord
 import datetime
 import asyncio
-import random
 from PIL import Image
 from discord.ext import commands
 from dotenv import load_dotenv

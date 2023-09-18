@@ -1,0 +1,7 @@
+os
+random
+discord
+datetime
+asyncio
+Pillow
+python-dotenv
